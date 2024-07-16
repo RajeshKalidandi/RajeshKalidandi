@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajesh Kalidandi</h1>
 <h3 align="center">A passionate Frontend & Python developer from India</h3>
 
-<img algin="left" alt="coding" width="500" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0VcIlhXz95N7SkwQKJVj9-&ust=1721218608299000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPDn15bFq4cDFQAAAAAdAAAAABAJ">
+<img algin="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0VcIlhXz95N7SkwQKJVj9-&ust=1721218608299000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPDn15bFq4cDFQAAAAAdAAAAABAJ">
 - 🤝 I’m looking for help with **Driving School app and Fashion Stylist App**
 
 - 📫 How to reach me **kalidandiirajesh@gmail.com**
