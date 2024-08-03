@@ -82,11 +82,11 @@
 ---
 
 <h3 align="left">📊 GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajeshkalidandi&show_icons=true&locale=en&layout=compact&theme=radical" alt="rajeshkalidandi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshkalidandi&layout=compact&theme=transparent&bg_color=ffffff&text_color=333333&title_color=0066cc" alt="rajeshkalidandi" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshkalidandi&theme=radical" alt="rajeshkalidandi" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshkalidandi&theme=transparent&background=ffffff&stroke=0066cc&ring=0066cc&fire=ffcc00&currStreakNum=0066cc" alt="rajeshkalidandi" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rajeshkalidandi&show_icons=true&locale=en&theme=radical" alt="rajeshkalidandi" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rajeshkalidandi&show_icons=true&theme=transparent&bg_color=ffffff&text_color=333333&title_color=0066cc&icon_color=ffcc00" alt="rajeshkalidandi" /></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rajeshkalidandi&label=Profile%20views&color=0e75b6&style=flat" alt="rajeshkalidandi" />
