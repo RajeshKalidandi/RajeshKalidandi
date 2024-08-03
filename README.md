@@ -3,11 +3,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-- 🔭 I’m currently working on **DriveWise and Fashion Stylist App**
+- 🔭 I’m currently working on **DriveWise and Steve - The Voice Assistant with Smart Blind Stick**
 - 🌱 I’m learning **Node.js, React, and Cloud Technologies**
-- 🤝 I’m looking for help with **Driving School app and Fashion Stylist App**
+- 🤝 I’m looking for help with **Driving School App and AI Projects**
 - 💬 Ask me about **Python, Django, and Full Stack Development**
-- 📫 How to reach me **kalidandiirajesh@gmail.com**
+- 📫 How to reach me **kalidandirajesh@gmail.com**
 - ⚡ Fun fact: **Turning ideas into reality, one venture at a time—where passion meets persistence and innovation shapes the future.**
 
 <br/>
@@ -64,6 +64,21 @@
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
     </a>
 </p>
+
+<h3 align="left">Certifications:</h3>
+<ul>
+    <li>Microsoft Certified: Azure Fundamentals</li>
+    <li>Advanced Software Engineering (Walmart), Python Essentials 1,2 (Cisco)</li>
+    <li>Introduction to Data Science (Cisco), Data Analysis with Python (freeCodeCamp)</li>
+    <li>Career Essentials in Generative AI (Microsoft)</li>
+    <li>Artificial Intelligence (Cognizant)</li>
+</ul>
+
+<h3 align="left">Projects:</h3>
+<ul>
+    <li><b>Steve - The Voice Assistant with Smart Blind Stick:</b> Developed an AI assistant integrated with smart blind stick using Arduino, Python (OpenAI API), NLP, and PyQt5 GUI.</li>
+    <li><b>DriveWise - India’s Driving School App:</b> Revolutionized the driving school experience in India with an innovative Android application.</li>
+</ul>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajeshkalidandi&show_icons=true&locale=en&layout=compact" alt="rajeshkalidandi" />
