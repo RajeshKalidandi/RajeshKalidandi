@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rajesh Kalidandi</h1>
-<h3 align="center">A passionate Full Stack & Python Developer from India</h3>
+<h3 align="center">A Passionate Full Stack & Python Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+
+<p align="left"> 
+  <img src="https://readme-typing-svg.herokuapp.com?color=0E6FFF&lines=Full+Stack+Developer;Python+Developer;AI+%26+ML+Enthusiast;Cloud+Computing+Advocate;Open+Source+Contributor" alt="Typing SVG">
+</p>
 
 - 🤝 I’m looking for help with **Driving School App and Fashion Stylist App**
 
@@ -9,13 +13,25 @@
 
 - ⚡ Fun fact **Turning ideas into reality, one venture at a time—where passion meets persistence and innovation shapes the future.**
 
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rajeshkalidandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajeshkalidandi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rajesh-kalidandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajesh-kalidandi" height="30" width="40" /></a>
-<a href="https://medium.com/@rajulucky400" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rajulucky400" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rajulucky400" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rajulucky400" height="30" width="40" /></a>
+<a href="https://twitter.com/rajeshkalidandi" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajeshkalidandi" height="30" width="40" />
+</a>
+<a href="https://linkedin.com/in/rajesh-kalidandi" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajesh-kalidandi" height="30" width="40" />
+</a>
+<a href="https://medium.com/@rajulucky400" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rajulucky400" height="30" width="40" />
+</a>
+<a href="https://www.hackerrank.com/rajulucky400" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rajulucky400" height="30" width="40" />
+</a>
 </p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -37,10 +53,6 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   </a>
-</p>
-
-<h3 align="left">Tools & Platforms:</h3>
-<p align="left">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   </a>
@@ -67,7 +79,15 @@
   </a> 
 </p>
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajeshkalidandi&show_icons=true&locale=en&layout=compact" alt="rajeshkalidandi" /></p>
+<h3 align="left">📊 GitHub Stats:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajeshkalidandi&show_icons=true&locale=en&layout=compact&theme=dark" alt="rajeshkalidandi" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshkalidandi&" alt="rajeshkalidandi" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshkalidandi&theme=dark" alt="rajeshkalidandi" /></p>
+
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=rajeshkalidandi&theme=onedark" alt="rajeshkalidandi" /></p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=rajeshkalidandi&bg_color=1e1e1e&color=ffffff&line=00e676&point=ffffff&hide_border=true" alt="GitHub Activity Graph" />
+</p>
