@@ -64,24 +64,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RajeshKalidandi&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=RajeshKalidandi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### :writing_hand: Blog Posts :
-
-<!-- BLOG-POST-LIST:START -->
-- [Test Post 1](https://dev.to/RajeshKalidandi)
-- [Test Post 2](https://dev.to/RajeshKalidandi)
-- [Test Post 3](https://dev.to/RajeshKalidandi)
-<!-- BLOG-POST-LIST:END -->
-
----
-
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
