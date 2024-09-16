@@ -1,93 +1,103 @@
-<h1 align="center">Hi 👋, I'm Rajesh Kalidandi</h1>
-<h3 align="center">A Passionate Full Stack & Python Developer from India</h3>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Welcome to Rajesh Kalidandi's GitHub!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-<img align="right" alt="coding" width="400" src="https://pngtree.com/freepng/programmer-it-developer_13520485.html">
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-<p align="left"> 
-  <img src="https://readme-typing-svg.herokuapp.com?color=0E6FFF&lines=Full+Stack+Developer;Python+Developer;AI+%26+ML+Enthusiast;Cloud+Computing+Advocate;Open+Source+Contributor" alt="Typing SVG">
-</p>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/rajesh-kalidandi/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/RajeshKalidandi">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
-- 🤝 I’m looking for help with **Driving School App and Fashion Stylist App**
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=RajeshKalidandi&style=flat-square&color=blue" alt=""/>
+</div>
 
-- 📫 How to reach me **kalidandiirajesh@gmail.com**
-
-- ⚡ Fun fact **Turning ideas into reality, one venture at a time—where passion meets persistence and innovation shapes the future.**
+<h1 align="center">
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rajeshkalidandi" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajeshkalidandi" height="30" width="40" />
-</a>
-<a href="https://linkedin.com/in/rajesh-kalidandi" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajesh-kalidandi" height="30" width="40" />
-</a>
-<a href="https://medium.com/@rajulucky400" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rajulucky400" height="30" width="40" />
-</a>
-<a href="https://www.hackerrank.com/rajulucky400" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rajulucky400" height="30" width="40" />
-</a>
-</p>
+### :man_technologist: About Me :
+
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> specializing in AI & ML from India.
+
+- :telescope: I'm working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-RajeshKalidandi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-kalidandi/)
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="expressjs" width="40" height="40"/> 
-  </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
-  </a> 
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-  </a> 
-</p>
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshkalidandi&layout=compact&theme=transparent&bg_color=ffffff&text_color=333333&title_color=0066cc" alt="rajeshkalidandi" /></p>
+### :fire: My Stats :
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshkalidandi&theme=transparent&background=ffffff&stroke=0066cc&ring=0066cc&fire=ffcc00&currStreakNum=0066cc" alt="rajeshkalidandi" /></p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RajeshKalidandi&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rajeshkalidandi&show_icons=true&theme=transparent&bg_color=ffffff&text_color=333333&title_color=0066cc&icon_color=ffcc00" alt="rajeshkalidandi" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=RajeshKalidandi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajeshkalidandi&label=Profile%20views&color=0e75b6&style=flat" alt="rajeshkalidandi" />
-</p>
+---
+
+### :writing_hand: Blog Posts :
+
+<!-- BLOG-POST-LIST:START -->
+- [Test Post 1](https://dev.to/RajeshKalidandi)
+- [Test Post 2](https://dev.to/RajeshKalidandi)
+- [Test Post 3](https://dev.to/RajeshKalidandi)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+### 👨‍💻 Rajesh Kalidandi's Portfolio 👨‍💻
+
+🚀 [Check out my portfolio](https://rajeshkalidandi.netlify.app)
+
+Explore my projects, skills, and experiences in AI, Machine Learning, and Full-Stack Development. From innovative AI applications to responsive web solutions, my portfolio showcases my journey in tech and my passion for solving complex problems.
+
+#AI #MachineLearning #FullStackDevelopment #DataScience #OpenSource
+
+---
+
+<div align="center">
+  Thank you for visiting my GitHub profile! 🙏
+  <br>
+  Let's connect and build amazing things together! 🚀
+</div>
