@@ -30,14 +30,17 @@
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> specializing in AI & ML from India.
+I am a Full Stack Developer and AI Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I'm working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
+- :rocket: Specializing in AI, ML, and Full Stack Development with a focus on Next.js and React.
+- :brain: Passionate about Generative AI and Natural Language Processing.
+- :cloud: Experienced in cloud computing, particularly with Azure.
+- :hammer_and_wrench: Proficient in a wide range of programming languages including Python, Java, and JavaScript.
+- :art: Skilled in both frontend (HTML, CSS, Tailwind CSS) and backend (Node.js, .NET) technologies.
+- :floppy_disk: Worked with various databases including SQL, MongoDB, and Firebase.
+- :bulb: Adept at prompt engineering and leveraging AI tools for innovative solutions.
+- :mega: Experienced in digital marketing and content creation.
+- :books: Constantly learning and staying updated with the latest in tech.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-RajeshKalidandi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-kalidandi/)
 
 ---
