@@ -1,113 +1,88 @@
-<!-- Enhanced & Modern README -->
+<!-- Modern & Animated README -->
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="waving hand"/>
-  Welcome to Rajesh Kalidandi's GitHub!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="waving hand"/>
-</h1>
+<!-- Full-Width Animated Banner -->
+<div align="center" style="position: relative;">
+  <img src="https://media.giphy.com/media/3o7btT1TCT3Sy2mDFe/giphy.gif" alt="Animated Banner" style="width: 100%; max-height: 300px; object-fit: cover;">
+  <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
+             color: white; text-shadow: 2px 2px 4px #000; font-size: 3em;">
+    Welcome to Rajesh Kalidandi's GitHub!
+  </h1>
+</div>
 
 <!-- Animated Typing Effect -->
-<div align="center" style="margin-bottom: 20px;">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+Enthusiast;Innovator;Tech+Lover&center=true&size=22&duration=4000&color=F76C6C&vCenter=true&width=600" alt="Typing SVG" />
-</div>
-
-<!-- Header GIF -->
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" alt="Cool animation"/>
-</div>
-
-<!-- Social Badges -->
 <div align="center" style="margin: 20px 0;">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+Enthusiast;Tech+Innovator;Problem+Solver&center=true&size=28&duration=3000&color=F76C6C" alt="Animated Typing" />
+</div>
+
+---
+
+## :wave: Hello, I'm Rajesh Kalidandi
+
+I'm a passionate **Full Stack Developer** and **AI Enthusiast** from India, dedicated to building innovative solutions and exploring new technologies.
+
+- **Languages:** Python, Java, JavaScript, and more.
+- **Frameworks:** Next.js, React, .NET, and Node.js.
+- **Cloud:** Expertise in Azure and other cloud platforms.
+- **Databases:** SQL, MongoDB, Firebase.
+- **Specialties:** AI/ML, NLP, Prompt Engineering, Digital Marketing & Content Creation.
+
+<div align="center" style="margin: 15px;">
   <a href="https://www.linkedin.com/in/rajesh-kalidandi/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-RajeshKalidandi-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/RajeshKalidandi">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-</div>
-
-<!-- Profile Views -->
-<div align="center" style="margin: 20px 0;">
-  <img src="https://komarev.com/ghpvc/?username=RajeshKalidandi&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
-
----
-
-## :man_technologist: About Me
-
-Hi, I'm **Rajesh Kalidandi** – a passionate Full Stack Developer and AI Enthusiast from India.
-
-- :rocket: **Specializing in:** AI, ML, and Full Stack Development with a focus on Next.js and React.
-- :brain: **Passionate about:** Generative AI and Natural Language Processing.
-- :cloud: **Experienced in:** Cloud computing (especially Azure).
-- :hammer_and_wrench: **Languages:** Python, Java, JavaScript, and more.
-- :art: **Expertise in:** Frontend (HTML, CSS, Tailwind CSS) and Backend (Node.js, .NET) technologies.
-- :floppy_disk: **Databases:** SQL, MongoDB, Firebase.
-- :bulb: **Innovative skills:** Prompt engineering and leveraging AI for creative solutions.
-- :mega: **Also skilled in:** Digital marketing & content creation.
-
-[![LinkedIn](https://img.shields.io/badge/-RajeshKalidandi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-kalidandi/)
-
----
-
-## :hammer_and_wrench: Languages & Skills
-
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" title="Java" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS3" title="CSS3" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" title="Node.js" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" title="React" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="Azure" title="Azure" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" title="MongoDB" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" title="Firebase" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" title="Git" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" title=".NET" width="40" height="40">
-</div>
-
-#### Key Skills:
-- **AI & ML:** Generative AI, NLP, Data Analysis.
-- **Cloud Computing:** Azure and various cloud platforms.
-- **Frameworks:** .NET, Next.js 14, React, Tailwind CSS.
-- **Databases:** SQL, MongoDB, Firebase.
-- **Tools:** GitHub, Postman.
-- **Prompt Engineering, Digital Marketing & Content Creation**
-
----
-
-<!-- Animated Coding GIF -->
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt="Coding Animation"/>
-</div>
-
----
-
-## 🚀 Portfolio
-
-Explore my projects, skills, and experiences in AI, Machine Learning, and Full-Stack Development. Check out my portfolio to see how I turn ideas into reality!
-
-[![Visit Portfolio](https://img.shields.io/badge/Visit-Portfolio-brightgreen?style=for-the-badge)](https://rajeshkalidandi.netlify.app)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/RajeshKalidandi">
-    <img src="https://github-readme-stats.vercel.app/api?username=RajeshKalidandi&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="45%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajeshKalidandi&layout=compact&theme=tokyonight" alt="Top Languages" width="45%"/>
+    <img src="https://img.shields.io/badge/-RajeshKalidandi-1DA1F2?style=flat&logo=Twitter&logoColor=white" alt="Twitter" />
   </a>
 </div>
 
 ---
 
-<div align="center" style="margin-top: 20px;">
-  <p>
-    Thank you for visiting my GitHub profile! 🙏<br>
-    Let's connect and build amazing things together! 🚀
+## :rocket: Skills & Tools
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title=".NET" alt=".NET" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50" style="margin: 10px;"/>
+</div>
+
+---
+
+## :bar_chart: GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RajeshKalidandi&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" style="min-width:300px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajeshKalidandi&layout=compact&theme=radical" alt="Top Languages" width="48%" style="min-width:300px;"/>
+</div>
+
+---
+
+## :computer: Portfolio & Projects
+
+Explore my latest projects and coding experiments spanning AI, Machine Learning, and Full Stack Development.
+
+<div align="center" style="margin: 20px;">
+  [![Visit Portfolio](https://img.shields.io/badge/Visit-Portfolio-brightgreen?style=for-the-badge)](https://rajeshkalidandi.netlify.app)
+</div>
+
+<div align="center" style="margin: 30px 0;">
+  <img src="https://media.giphy.com/media/3o7btUIsHVl6w4sT6I/giphy.gif" alt="Coding Animation" style="width: 600px; max-width: 100%;"/>
+</div>
+
+---
+
+<div align="center" style="margin: 40px 0;">
+  <p style="font-size: 1.2em;">
+    Thank you for stopping by! 🙏<br>
+    Let's connect, innovate, and create something amazing together! 🚀
   </p>
 </div>
