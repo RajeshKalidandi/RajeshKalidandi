@@ -1,66 +1,19 @@
-<style>
-/* Container with an animated gradient background */
-.container {
-  animation: gradientBG 15s ease infinite;
-  background: linear-gradient(45deg, #1d2b64, #f8cdda, #1d2b64);
-  background-size: 600% 600%;
-  padding: 20px;
-  border-radius: 15px;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-
-/* Keyframe for background gradient animation */
-@keyframes gradientBG {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-
-/* Pulse animation for images */
-@keyframes pulse {
-  0% { transform: scale(1); }
-  50% { transform: scale(1.1); }
-  100% { transform: scale(1); }
-}
-
-.animated-img {
-  animation: pulse 2s infinite;
-}
-
-/* Fade-in animation for headings */
-@keyframes fadeIn {
-  0% { opacity: 0; transform: translateY(-20px); }
-  100% { opacity: 1; transform: translateY(0); }
-}
-.animated-heading {
-  animation: fadeIn 2s ease-in-out;
-}
-
-/* Hover effect for badge images */
-.badge:hover {
-  transform: scale(1.1);
-  transition: transform 0.3s;
-}
-</style>
-
-<div class="container">
-
-<h1 align="center" class="animated-heading">
-  <img class="animated-img" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   Welcome to Rajesh Kalidandi's GitHub!
-  <img class="animated-img" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 <div id="header" align="center">
-  <img class="animated-img" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/rajesh-kalidandi/">
-    <img class="badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/RajeshKalidandi">
-    <img class="badge" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
@@ -68,16 +21,16 @@
   <img src="https://komarev.com/ghpvc/?username=RajeshKalidandi&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h1 align="center" class="animated-heading">
+<h1 align="center">
   Hey there
-  <img class="animated-img" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 ---
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer and AI Enthusiast <img class="animated-img" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Full Stack Developer and AI Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - :rocket: Specializing in AI, ML, and Full Stack Development with a focus on Next.js and React.
 - :brain: Passionate about Generative AI and Natural Language Processing.
@@ -91,6 +44,7 @@ I am a Full Stack Developer and AI Enthusiast <img class="animated-img" src="htt
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-RajeshKalidandi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-kalidandi/)
 
 ---
+
 
 ### :hammer_and_wrench: Languages and Skills :
 
@@ -124,7 +78,7 @@ I am a Full Stack Developer and AI Enthusiast <img class="animated-img" src="htt
 ---
 
 <div align="center">
-  <img class="animated-img" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 ### 👨‍💻 Rajesh Kalidandi's Portfolio 👨‍💻
@@ -141,6 +95,4 @@ Explore my projects, skills, and experiences in AI, Machine Learning, and Full-S
   Thank you for visiting my GitHub profile! 🙏
   <br>
   Let's connect and build amazing things together! 🚀
-</div>
-
 </div>
