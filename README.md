@@ -1,8 +1,12 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  Welcome to Rajesh Kalidandi's GitHub!
+  Welcome to Rajesh Kalidandi's GitHub
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+<p align="center">
+  <b>AI Full Stack Developer • Builder • MVP Shipper</b>
+</p>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -10,70 +14,97 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/rajesh-kalidandi/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-RajeshKalidandi-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/RajeshKalidandi">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-@RajeshKalidandi-blue?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://rajeshkalidandi.online">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RajeshKalidandi&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=RajeshKalidandi&style=flat-square&color=blue"/>
 </div>
 
-<h1 align="center">
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+---
+
+<h2 align="center">
+  Hey there 👋
+</h2>
 
 ---
 
-### :man_technologist: About Me :
+### 👨‍💻 About Me
 
-I am a Full Stack Developer and AI Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I’m **Rajesh Kalidandi**, an **AI Full Stack Developer** from India 🇮🇳  
+I build **production-ready AI products**, not demos.
 
-- :rocket: Specializing in AI, ML, and Full Stack Development with a focus on Next.js and React.
-- :brain: Passionate about Generative AI and Natural Language Processing.
-- :cloud: Experienced in cloud computing, particularly with Azure.
-- :hammer_and_wrench: Proficient in a wide range of programming languages including Python, Java, and JavaScript.
-- :art: Skilled in both frontend (HTML, CSS, Tailwind CSS) and backend (Node.js, .NET) technologies.
-- :floppy_disk: Worked with various databases including SQL, MongoDB, and Firebase.
-- :bulb: Adept at prompt engineering and leveraging AI tools for innovative solutions.
-- :mega: Experienced in digital marketing and content creation.
-- :books: Constantly learning and staying updated with the latest in tech.
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-RajeshKalidandi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-kalidandi/)
+- 🚀 Ship **MVPs in days**, not months  
+- 🧠 Deep into **Generative AI, LLMs, RAG & Agents**
+- 🏗️ Strong believer in **clean architecture + fast execution**
+- 🌐 Currently working on **AI SaaS, compliance tech & developer tools**
+- 💼 Open to **freelance, contract & startup collaborations**
+- 📈 Active on LinkedIn sharing **AI + builder insights**
+
+> _“AI is not magic. It’s leverage — if you know how to ship.”_
+
+📫 Reach me here →  
+[![LinkedIn Badge](https://img.shields.io/badge/-RajeshKalidandi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-kalidandi/)
 
 ---
 
+### 🧠 What I’m Focused On (2025)
 
-### :hammer_and_wrench: Languages and Skills :
+- 🤖 AI Agents & Workflow Automation  
+- 🧩 LLM-powered SaaS products  
+- 🔍 Search, RAG & semantic systems  
+- 🛡️ Privacy, PII redaction & compliance (DPDP / GDPR)  
+- ⚡ Developer-first tools & extensions  
+- 📦 Shipping fast with **Next.js + AI APIs**
+
+---
+
+### 🛠️ Languages, Frameworks & Tools
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title=".NET" alt=".NET" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40"/>
 </div>
 
-#### Key Skills:
-- 🤖 AI & ML: Generative AI, Natural Language Processing (NLP), Data Analysis
-- ☁️ Cloud Computing: Azure, Cloud Platforms
-- 🛠️ Frameworks: .NET, Next.js 14, React, Tailwind CSS
-- 🗄️ Databases: SQL, MongoDB, Firebase
-- 🔧 Tools: GitHub, Postman
-- 💡 Prompt Engineering
-- 🚀 Digital Marketing
-- ✍️ Content Creation
+---
+
+### 🔑 Core Skills
+
+- 🤖 **AI & ML** — LLMs, RAG, NLP, Prompt Engineering  
+- ⚙️ **Full Stack** — Next.js 14, React, Node.js, APIs  
+- ☁️ **Cloud** — Azure, Vercel, serverless architectures  
+- 🗄️ **Databases** — SQL, MongoDB, Firebase, Supabase  
+- 🧠 **Product Thinking** — MVPs, iteration, scalability  
+- ✍️ **Content & Dev Advocacy** — LinkedIn, writing, demos  
+
+---
+
+### 🚀 Featured Work & Products
+
+- 🔐 **Consently** — Consent management platform (India DPDP focused)  
+- 🧼 **Redacto** — AI-powered PII redaction & document safety  
+- 🧠 **AI Consultant** — LLM-powered advisory tools  
+- ⚡ **Developer Utilities** — AI extensions & automation tools  
+
+👉 More details on my portfolio 👇  
+🌐 **https://rajeshkalidandi.online**
 
 ---
 
@@ -81,18 +112,24 @@ I am a Full Stack Developer and AI Enthusiast <img src="https://media.giphy.com/
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### 👨‍💻 Rajesh Kalidandi's Portfolio 👨‍💻
+---
 
-🚀 [Check out my portfolio](https://rajeshkalidandi.netlify.app)
+### 🤝 Let’s Build
 
-Explore my projects, skills, and experiences in AI, Machine Learning, and Full-Stack Development. From innovative AI applications to responsive web solutions, my portfolio showcases my journey in tech and my passion for solving complex problems.
+If you’re:
+- 🚀 Building an AI startup  
+- 🧪 Experimenting with LLMs  
+- 🧑‍💻 Looking for a fast MVP builder  
+- 🤝 Or just want to talk AI  
 
-#AI #MachineLearning #FullStackDevelopment #DataScience #OpenSource
+**Let’s connect.**
+
+<div align="center">
+  Thanks for stopping by 🙏  
+  <br/>
+  <b>Build fast. Ship often. Learn always.</b> 🚀
+</div>
 
 ---
 
-<div align="center">
-  Thank you for visiting my GitHub profile! 🙏
-  <br>
-  Let's connect and build amazing things together! 🚀
-</div>
+#AI #FullStack #LLM #NextJS #OpenSource #SaaS
