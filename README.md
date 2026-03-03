@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-  <strong>AI Full Stack Developer</strong> • <strong>Builder</strong> • <strong>MVP Shipper</strong><br>
-  Hyderabad, India 🇮🇳 | Turning LLMs into production-ready AI SaaS — fast
+  <strong>AI Full Stack Engineer</strong> • Building & shipping production AI SaaS & Chrome extensions<br>
+  Hyderabad, India 🇮🇳 | Turning LLMs into real products — fast
 </p>
 
 <div align="center">
@@ -17,6 +17,9 @@
   <a href="https://rajeshkalidandi.online">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
+  <a href="mailto:kalidandiirajesh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </div>
 
 <div align="center">
@@ -27,35 +30,27 @@
 
 ### 🚀 About Me
 
-I'm **Rajesh Kalidandi**, an **AI Full Stack Developer** from Hyderabad who ships **production-ready AI products**, not just demos.
+**AI Full Stack Engineer** with a strong execution mindset. I build end-to-end **AI-powered SaaS products** and developer tools using **Next.js, TypeScript, Supabase & multi-LLM APIs**.  
 
-- ⚡ Ship **MVPs in days**, not months
-- 🧠 Deep expertise in **Generative AI, LLMs, RAG, Agents & Prompt Engineering**
-- 🛡️ Privacy & compliance focused (DPDP Act / GDPR)
-- 🏗️ Clean architecture + fast execution believer
-- 📈 Active on X & LinkedIn sharing AI + builder insights
+Currently at **ComplySec** shipping an AI compliance & document intelligence platform for DPDPA 2023 (15+ beta users). Passionate about rapid MVPs, clean architecture, and privacy-first AI.
 
-> “AI is not magic. It’s leverage — if you know how to ship.”
+- ⚡ Ship production features in days  
+- 🧠 LLM integration, RAG, structured outputs, multi-model routing  
+- 🛡️ DPDPA/GDPR compliance & document redaction systems  
+- 📈 Open to **full-time** and **contract/freelance** roles
 
----
-
-### 🔥 What I'm Focused On (2026)
-
-- 🤖 Advanced **AI Agents** & autonomous workflows
-- 🧩 LLM-powered SaaS products for Indian businesses
-- 🔍 RAG, semantic search & compliance tech
-- 🛡️ Privacy-first tools (Consent, PII redaction)
-- ⚡ Next.js + AI APIs developer utilities
+> “AI is leverage — if you know how to ship.”
 
 ---
 
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,react,nextjs,tailwind,nodejs,azure,vercel,mongodb,postgresql,git&perline=8" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,nextjs,react,tailwind,nodejs,supabase,postgresql,mongodb,vercel,cloudflare,aws,git&perline=8" />
 </div>
 
-**AI/ML:** OpenAI • Groq • LangChain • LlamaIndex • RAG pipelines • Prompt Engineering
+**AI & LLM:** OpenAI • Gemini • Claude • Grok • DeepSeek • OpenRouter • Prompt Engineering • Structured Outputs  
+**Backend & Tools:** FastAPI • Express • Zod • n8n • Make.com • Cursor • Windsurf • Claude Code
 
 ---
 
@@ -74,30 +69,48 @@ I'm **Rajesh Kalidandi**, an **AI Full Stack Developer** from Hyderabad who ship
 
 ---
 
-### ✨ Featured Work & Products
+### ✨ Featured Projects
 
-**AI SaaS Products**
-- 🔐 **Consently** — Consent management platform (India DPDP focused)
-- 🧼 **Redacto** — AI-powered PII redaction & document safety
+**CommentLikeMe** – AI LinkedIn Comment Generator  
+*Chrome Extension | 2025*  
+AI-powered extension that generates human-like, context-aware LinkedIn comments using intent detection, vision AI & resume sync. Anti-hallucination safeguards + multi-model routing.  
+**Live on Chrome Web Store** • 5.0 rating • Launched 2025  
 
-**Recent Builds**
-- [dukaan-tech](https://github.com/RajeshKalidandi/dukaan-tech) — SaaS platform for Indian shopkeepers (TypeScript)
-- [Fithosh](https://github.com/RajeshKalidandi/Fithosh) — AI-powered fitness platform landing page
-- [hydro-tracker](https://github.com/RajeshKalidandi/hydro-tracker) — Water intake tracker with analytics
-- [resolution-achiever](https://github.com/RajeshKalidandi/resolution-achiever) — Modern goal-tracking web app
+**DPDPA Comply** – AI Compliance Platform @ ComplySec  
+*SaaS | 2025–Present*  
+End-to-end DPDPA 2023 compliance platform with AI document intelligence, assessment engine, redaction, remediation tracking & multi-tenant reports. Reduced assessment time by 35–40%.  
+**Live:** [dpdpconsulting.vercel.app](https://dpdpconsulting.vercel.app)
 
-👉 More on my **[portfolio](https://rajeshkalidandi.online)**
+**Redactn.com** – AI Redaction Tool  
+*2025*  
+Privacy-first AI system that detects and redacts PII/sensitive data from documents. Processed 800+ files in beta, cutting manual review time by 50%.
+
+**Universal Read API** – Open Source  
+*Lightweight URL → clean JSON API*  
+LLM-driven extraction (95% accuracy) without heavy browser scraping. Deployed on Cloudflare Workers • Published on NPM • 20+ downloads.
+
+**Steve** – Smart Blind Stick  
+*Patent Holder | 2024*  
+AI-powered voice assistant for visually impaired users with IoT integration (Arduino + Python + OpenAI). Improved navigation accuracy by 30% in trials.
 
 ---
 
-### 🤝 Let's Build Together
+### 🎖️ Achievements
+- 60+ GitHub repositories • 30+ stars  
+- Patent Holder – Steve Smart Blind Stick  
+- 5K+ LinkedIn network • 50+ skill endorsements  
+- 20+ projects delivered in 2 months → 3 client collaborations
 
-Open to:
-- **Freelance / Contract** AI + Full-Stack work
-- **AI Startup collaborations** or early-stage building
-- Interesting conversations on LLMs, RAG & shipping fast
+---
 
-**Drop me a message** — happy to chat! 🚀
+### 🤝 Let's Connect
+
+Currently **open to full-time roles** and **contract/freelance AI + full-stack work**.
+
+Building AI SaaS? Need a fast MVP or compliance tool?  
+Happy to chat about LLMs, RAG, shipping, or anything in between.
+
+**Reach out** — I reply fast! 🚀
 
 <div align="center">
   <b>Build fast. Ship real. Learn always.</b>
