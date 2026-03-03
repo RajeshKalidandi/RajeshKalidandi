@@ -3,11 +3,11 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=AI+Full+Stack+Developer;Production+LLM+Systems+Builder;RAG+%7C+Agents+%7C+SaaS+%7C+Chrome+Extensions;Shipping+AI+Products+Fast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=AI+Full+Stack+Developer;Production+LLM+Systems+Builder;RAG+%7C+Agents+%7C+SaaS+%7C+Chrome+Extensions;Shipping+AI+Products+Fast" />
 </p>
 
 <p align="center">
-  <strong>AI Full Stack Developer</strong> building production-grade AI SaaS & intelligent applications<br>
+  <strong>AI Full Stack Developer</strong> building production-grade AI SaaS & intelligent systems<br>
   Hyderabad, India 🇮🇳
 </p>
 
@@ -17,18 +17,16 @@
 
 I build complete AI systems:
 
-🎨 Beautiful, modern UI  
+🎨 Modern, responsive UI  
 ⚙️ Scalable backend architecture  
-🧠 LLM integrations with guardrails  
-🚀 Deployed products with real users  
+🧠 Multi-LLM integrations with guardrails  
+🚀 Deployed SaaS & Chrome extensions with real users  
 
 Not AI demos.  
 Not GPT wrappers.  
 **Real products that ship.**
 
-Currently building AI compliance & document intelligence platforms.
-
-> “AI is leverage — execution is the multiplier.”
+> “AI is leverage. Execution is the multiplier.”
 
 ---
 
@@ -38,49 +36,60 @@ Currently building AI compliance & document intelligence platforms.
   <img src="https://skillicons.dev/icons?i=typescript,javascript,python,nextjs,react,tailwind,nodejs,supabase,postgresql,mongodb,vercel,cloudflare,aws,git&perline=7" />
 </div>
 
-### 🧠 AI Layer
-- OpenAI • Gemini • Claude • Grok • DeepSeek
-- RAG (Hybrid Retrieval + Reranking)
-- Structured Outputs
-- Multi-model routing
-- Agent orchestration
-- Prompt engineering
-- Evaluation loops
+---
+
+## 🧠 AI & Engineering Workflow
+
+### LLM & AI Systems
+- OpenAI • Claude • Gemini • Grok • DeepSeek • OpenRouter  
+- RAG (Hybrid retrieval + reranking)  
+- Structured outputs  
+- Multi-model routing  
+- Agent orchestration  
+- Tool calling & evaluation loops  
+
+### AI-Native Development Workflow
+- Claude Code  
+- Cursor  
+- OpenCode  
+- Antigravity  
+- OpenClaw  
+- n8n  
+- Make.com  
+
+I leverage AI inside my development workflow to move faster without sacrificing architecture quality.
 
 ---
 
-## 🎨 UI Engineering (Because I'm Full Stack)
+## 🎨 UI Engineering (Because I’m Full Stack)
 
-- Modern SaaS dashboards
-- Smooth micro-animations
-- Clean typography
-- Dark/light theming
-- Accessible component systems
-- Chrome extension UI architecture
+- SaaS dashboards with clean UX  
+- Smooth micro-interactions & animations  
+- Dark/light theme systems  
+- Component-driven architecture  
+- Chrome extension UI systems  
 
 I don’t just connect APIs.  
-I design experiences.
+I design usable AI experiences.
 
 ---
 
 ## 🚀 What I Build
 
 ### 🧠 AI SaaS Platforms
-Multi-tenant systems with:
-- Auth
-- Role-based access
-- AI pipelines
-- Observability
-- Usage tracking
-
-### 🧩 Chrome Extensions
-- AI-powered workflows
-- Context-aware generation
-- Optimized performance
-- Real-world users
+- Multi-tenant architecture  
+- Auth + role-based access  
+- AI pipelines + observability  
+- Usage tracking + analytics  
 
 ### 🔍 Production RAG Systems
-ingest → chunk → embed → hybrid search → rerank → guardrail → generate → monitor
+ingest → parse → chunk → embed → hybrid search → rerank → guardrail → generate → monitor → iterate  
+
+### 🧩 AI Chrome Extensions
+Context-aware generation  
+Intent detection  
+Resume-aware personalization  
+Anti-hallucination safeguards  
 
 ---
 
@@ -99,20 +108,20 @@ ingest → chunk → embed → hybrid search → rerank → guardrail → genera
 
 ## 🎯 2026 Focus
 
-- Agentic AI systems with reliability
-- AI-native SaaS with revenue
-- Developer-first AI tooling
-- Shipping fast without compromising architecture
+- Agentic AI systems with reliability guardrails  
+- AI-native SaaS with paying users  
+- Developer-first AI tooling  
+- Shipping fast without breaking architecture  
 
 ---
 
 ## 🤝 Open To
 
 Full-time roles  
-Freelance & contract projects  
-AI startups  
+Contract & freelance projects  
+Early-stage AI startups  
 
-If you're building something serious with AI — let's talk.
+If you're building serious AI products — let’s collaborate.
 
 ---
 
