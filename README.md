@@ -55,17 +55,23 @@ Evaluation loops • Guardrails • Observability
 
 ## ⚡ AI-Native Development Workflow
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Cursor-4B32C3?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OpenCode-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Antigravity-222222?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OpenClaw-333333?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-
-</div>
+<p align="center">
+  <a href="https://www.anthropic.com/claude-code">
+    <img src="https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge" />
+  </a>
+  <a href="https://cursor.sh">
+    <img src="https://img.shields.io/badge/Cursor-4B32C3?style=for-the-badge" />
+  </a>
+  <a href="https://opencode.ai">
+    <img src="https://img.shields.io/badge/OpenCode-111111?style=for-the-badge" />
+  </a>
+  <a href="https://supabase.com">
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  </a>
+  <a href="https://vercel.com">
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 I use AI coding agents as collaborators:
 
