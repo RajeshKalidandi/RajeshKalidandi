@@ -1,17 +1,18 @@
-<h1 align="center">
-  🚀 Rajesh Kalidandi
+can you help me to update my github profile default readme -- <h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Welcome to Rajesh Kalidandi's GitHub
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 <p align="center">
-  <b>AI Systems Engineer • Production RAG Builder • SaaS Shipper</b>
+  <b>AI Full Stack Developer • Builder • MVP Shipper</b>
 </p>
 
-<p align="center">
-  I build real AI systems that ship.<br/>
-  Not demos. Not wrappers. Not hype.
-</p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-<div align="center">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/rajesh-kalidandi/">
     <img src="https://img.shields.io/badge/LinkedIn-RajeshKalidandi-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -23,96 +24,112 @@
   </a>
 </div>
 
----
-
-## 👋 Who I Am
-
-I’m Rajesh — an AI Full Stack Engineer from India 🇮🇳  
-Currently building production-grade AI products at scale.
-
-What I care about:
-- 🧠 RAG systems that actually retrieve well  
-- 🤖 Multi-agent workflows with guardrails  
-- 🔍 Observability in LLM pipelines  
-- ⚡ Shipping MVPs in days, not months  
-- 🛡️ Compliance-aware AI (DPDP / GDPR)
-
-> AI isn’t magic.  
-> It’s systems engineering + speed of execution.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=RajeshKalidandi&style=flat-square&color=blue"/>
+</div>
 
 ---
 
-## 🏗 What I’m Building
-
-- 🔐 **Consently** — Consent & compliance infrastructure (India DPDP)
-- 🧼 **Redacto** — AI-powered PII redaction engine
-- 🧠 Production-grade **Agentic RAG Systems**
-- ⚙️ AI developer utilities & automation workflows
+<h2 align="center">
+  Hey there 👋
+</h2>
 
 ---
 
-## 🧠 Core Stack
+### 👨‍💻 About Me
 
-**Frontend**
-- Next.js (App Router)
-- TypeScript
-- Zustand
+I’m **Rajesh Kalidandi**, an **AI Full Stack Developer** from India 🇮🇳  
+I build **production-ready AI products**, not demos.
 
-**Backend**
-- Node.js
-- Supabase
-- Redis
-- Serverless architecture
+- 🚀 Ship **MVPs in days**, not months  
+- 🧠 Deep into **Generative AI, LLMs, RAG & Agents**
+- 🏗️ Strong believer in **clean architecture + fast execution**
+- 🌐 Currently working on **AI SaaS, compliance tech & developer tools**
+- 💼 Open to **freelance, contract & startup collaborations**
+- 📈 Active on LinkedIn sharing **AI + builder insights**
 
-**AI Layer**
-- LLM APIs
-- RAG pipelines
-- Hybrid retrieval
-- Prompt engineering
-- Agent orchestration
-- Vector databases
+> _“AI is not magic. It’s leverage — if you know how to ship.”_
 
-**Infra**
-- Vercel
-- Azure
-- CI/CD pipelines
+📫 Reach me here →  
+[![LinkedIn Badge](https://img.shields.io/badge/-RajeshKalidandi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-kalidandi/)
 
 ---
 
-## 🧪 What Makes My Work Different
+### 🧠 What I’m Focused On (2025)
 
-Most people build:
-retrieve → generate
-
-I build:
-ingest → parse → chunk → embed → hybrid search → rerank → guardrail → generate → monitor → improve
-
-Production thinking > toy demos.
-
----
-
-## 📈 2026 Focus
-
-- Agentic AI systems with reliability guardrails
-- Observability for LLM pipelines
-- AI SaaS with real paying users
-- Developer-first AI tooling
-- High-leverage distribution
+- 🤖 AI Agents & Workflow Automation  
+- 🧩 LLM-powered SaaS products  
+- 🔍 Search, RAG & semantic systems  
+- 🛡️ Privacy, PII redaction & compliance (DPDP / GDPR)  
+- ⚡ Developer-first tools & extensions  
+- 📦 Shipping fast with **Next.js + AI APIs**
 
 ---
 
-## 🤝 Let’s Collaborate
+### 🛠️ Languages, Frameworks & Tools
 
-If you are:
-- Building an AI startup
-- Need a fast production MVP
-- Scaling a RAG system
-- Looking for an AI systems engineer
-
-Let’s talk.
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40"/>
+</div>
 
 ---
 
-<p align="center">
-  <b>Build fast. Ship real. Iterate publicly.</b>
-</p>
+### 🔑 Core Skills
+
+- 🤖 **AI & ML** — LLMs, RAG, NLP, Prompt Engineering  
+- ⚙️ **Full Stack** — Next.js 14, React, Node.js, APIs  
+- ☁️ **Cloud** — Azure, Vercel, serverless architectures  
+- 🗄️ **Databases** — SQL, MongoDB, Firebase, Supabase  
+- 🧠 **Product Thinking** — MVPs, iteration, scalability  
+- ✍️ **Content & Dev Advocacy** — LinkedIn, writing, demos  
+
+---
+
+### 🚀 Featured Work & Products
+
+- 🔐 **Consently** — Consent management platform (India DPDP focused)  
+- 🧼 **Redacto** — AI-powered PII redaction & document safety  
+- 🧠 **AI Consultant** — LLM-powered advisory tools  
+- ⚡ **Developer Utilities** — AI extensions & automation tools  
+
+👉 More details on my portfolio 👇  
+🌐 **https://rajeshkalidandi.online**
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+### 🤝 Let’s Build
+
+If you’re:
+- 🚀 Building an AI startup  
+- 🧪 Experimenting with LLMs  
+- 🧑‍💻 Looking for a fast MVP builder  
+- 🤝 Or just want to talk AI  
+
+**Let’s connect.**
+
+<div align="center">
+  Thanks for stopping by 🙏  
+  <br/>
+  <b>Build fast. Ship often. Learn always.</b> 🚀
+</div>
+
+---
+
+#AI #FullStack #LLM #NextJS #OpenSource #SaaS
