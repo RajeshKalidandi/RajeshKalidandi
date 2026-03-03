@@ -119,15 +119,6 @@ Anti-hallucination safeguards
 
 ---
 
-## 📊 Engineering Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RajeshKalidandi&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajeshKalidandi&theme=transparent&hide_border=true" height="165" />
-</p>
-
----
-
 ## 🎯 2026 Focus
 
 - Agentic AI systems with reliability  
