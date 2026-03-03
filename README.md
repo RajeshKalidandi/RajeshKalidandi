@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=AI+Full+Stack+Developer;Production+LLM+Systems+Builder;RAG+%7C+Agents+%7C+SaaS+%7C+Chrome+Extensions;Shipping+AI+Products+Fast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=AI+Full+Stack+Developer;AI-Native+Systems+Engineer;RAG+%7C+Agents+%7C+SaaS+%7C+Chrome+Extensions;Shipping+AI+Products+Fast" />
 </p>
 
 <p align="center">
@@ -15,22 +15,22 @@
 
 ## 🚀 About Me
 
-I build complete AI systems:
+I’m not a traditional developer anymore.
 
-🎨 Modern, responsive UI  
-⚙️ Scalable backend architecture  
-🧠 Multi-LLM integrations with guardrails  
-🚀 Deployed SaaS & Chrome extensions with real users  
+I’m an **AI-native full stack engineer**.
 
-Not AI demos.  
-Not GPT wrappers.  
-**Real products that ship.**
+I design systems, architect products, and leverage AI coding agents to execute at high speed.
+
+I don’t manually write every line of code —  
+I orchestrate AI to build faster, cleaner, and smarter.
+
+That’s the future of engineering.
 
 > “AI is leverage. Execution is the multiplier.”
 
 ---
 
-## 🛠️ Full Stack + AI Stack
+## 🛠️ Core Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=typescript,javascript,python,nextjs,react,tailwind,nodejs,supabase,postgresql,mongodb,vercel,cloudflare,aws,git&perline=7" />
@@ -38,90 +38,106 @@ Not GPT wrappers.
 
 ---
 
-## 🧠 AI & Engineering Workflow
+## 🧠 LLM & AI Systems
 
-### LLM & AI Systems
-- OpenAI • Claude • Gemini • Grok • DeepSeek • OpenRouter  
-- RAG (Hybrid retrieval + reranking)  
-- Structured outputs  
-- Multi-model routing  
-- Agent orchestration  
-- Tool calling & evaluation loops  
+- OpenAI  
+- Claude  
+- Gemini  
+- Grok  
+- DeepSeek  
+- OpenRouter  
 
-### AI-Native Development Workflow
-- Claude Code  
-- Cursor  
-- OpenCode  
-- Antigravity  
-- OpenClaw  
-- n8n  
-- Make.com  
+RAG • Hybrid Retrieval • Reranking • Structured Outputs  
+Multi-model routing • Agent orchestration • Tool calling  
+Evaluation loops • Guardrails • Observability
 
-I leverage AI inside my development workflow to move faster without sacrificing architecture quality.
+---
+
+## ⚡ AI-Native Development Workflow
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cursor-4B32C3?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OpenCode-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Antigravity-222222?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OpenClaw-333333?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+
+</div>
+
+I use AI coding agents as collaborators:
+
+- Rapid feature scaffolding  
+- Refactoring at scale  
+- Multi-file architecture generation  
+- Test generation  
+- Code audits  
+- Performance optimization  
+
+This is not “vibe coding.”  
+This is structured AI-assisted engineering.
 
 ---
 
 ## 🎨 UI Engineering (Because I’m Full Stack)
 
-- SaaS dashboards with clean UX  
-- Smooth micro-interactions & animations  
+- Modern SaaS dashboards  
+- Smooth micro-interactions  
 - Dark/light theme systems  
-- Component-driven architecture  
-- Chrome extension UI systems  
+- Component architecture  
+- Chrome extension UI design  
 
-I don’t just connect APIs.  
-I design usable AI experiences.
+I build interfaces people enjoy using — not just APIs.
 
 ---
 
-## 🚀 What I Build
+## 🏗 What I Build
 
 ### 🧠 AI SaaS Platforms
-- Multi-tenant architecture  
-- Auth + role-based access  
-- AI pipelines + observability  
-- Usage tracking + analytics  
+Multi-tenant  
+Auth + RBAC  
+AI pipelines  
+Usage analytics  
+Production deployments  
 
 ### 🔍 Production RAG Systems
 ingest → parse → chunk → embed → hybrid search → rerank → guardrail → generate → monitor → iterate  
 
 ### 🧩 AI Chrome Extensions
-Context-aware generation  
+Context-aware  
 Intent detection  
-Resume-aware personalization  
+Resume-personalized  
 Anti-hallucination safeguards  
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RajeshKalidandi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajeshKalidandi&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RajeshKalidandi&theme=tokyo-night&hide_border=true" />
-</p>
-
 ---
 
 ## 🎯 2026 Focus
 
-- Agentic AI systems with reliability guardrails  
-- AI-native SaaS with paying users  
+- Agentic AI systems with reliability  
+- AI-native SaaS with revenue  
 - Developer-first AI tooling  
-- Shipping fast without breaking architecture  
+- Shipping fast without sacrificing architecture  
 
 ---
 
 ## 🤝 Open To
 
 Full-time roles  
-Contract & freelance projects  
-Early-stage AI startups  
+Contract work  
+AI startups  
 
-If you're building serious AI products — let’s collaborate.
+If you’re building serious AI products — let’s collaborate.
 
 ---
 
